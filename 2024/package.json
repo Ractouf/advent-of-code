@@ -1,0 +1,8 @@
+{
+  "name": "advent",
+  "version": "2.0.2.4",
+  "main": "index.js",
+  "author": "François Vandeputte",
+  "license": "ISC",
+  "dependencies": {}
+}
